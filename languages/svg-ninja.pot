@@ -1,0 +1,186 @@
+# Copyright (C) 2026 Eric Jagwara
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SVG Ninja 1.1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/ericjagwara/svg-ninja/issues\n"
+"POT-Creation-Date: 2026-02-10 16:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: includes/class-svg-ninja-admin.php:155
+msgid "Admin-Only Uploads"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:297
+msgid "Always on. Every SVG upload is sanitized to remove malicious code (script tags, event handlers, javascript: protocols, remote references)."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:250
+msgid "Auto-corrects missing viewBox attributes"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:322
+msgid "Cleans out proprietary tags from Adobe Illustrator, Figma, and Sketch."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:265
+msgid "Configure how SVG Ninja handles your vector files."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:247
+msgid "Enables SVG and SVGZ file uploads"
+msgstr ""
+
+#: includes/class-svg-ninja-core.php:245
+msgid "Failed to compress the sanitized SVG file."
+msgstr ""
+
+#: includes/class-svg-ninja-core.php:254
+msgid "Failed to write the sanitized SVG file. Please check server permissions."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:251
+msgid "Fixes broken thumbnails in Media Library"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:225
+msgid "Minimal Frontend Footprint:"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:278
+msgid "Only allow Administrators to upload SVG files"
+msgstr ""
+
+#: svg-ninja.php:72
+msgid "Plugin Activation Error"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:281
+msgid "Recommended for security. Developers can modify the required capability using the svg_ninja_upload_capability filter."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:319
+msgid "Remove bloated metadata from design apps"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:248
+msgid "Removes malicious scripts and XSS attack vectors"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:252
+msgid "Restricts uploads to admins (configurable)"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:57
+msgid "SVG Ninja"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:220
+msgid "SVG Ninja Active"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:56
+msgid "SVG Ninja Settings"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:231
+msgid "SVG Ninja is installed but cannot process uploads yet. The required sanitization library needs to be installed before SVG uploads will work."
+msgstr ""
+
+#: svg-ninja.php:71
+msgid "SVG Ninja requires PHP 7.4 or higher."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:337
+#: includes/class-svg-ninja-admin.php:385
+msgid "SVG Ninja:"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:206
+msgid "SVG Sanitizer Library Not Found — SVG uploads are disabled."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:226
+msgid "Sanitization and admin UI only run in the dashboard. No CSS or JS is added to your public pages."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:300
+msgid "Sanitization library missing — all SVG uploads will be rejected until installed."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:163
+msgid "Sanitize SVGs"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:240
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:148
+msgid "Security & Performance Settings"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:408
+msgid "Settings"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:229
+msgid "Setup Required"
+msgstr ""
+
+#: includes/class-svg-ninja-core.php:199
+msgid "Sorry, you do not have permission to upload SVG files."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:171
+msgid "Strip Metadata"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:249
+msgid "Strips Adobe, Figma, and Sketch metadata bloat"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:210
+#, php-format
+msgid "The required sanitization library is missing. Please run %s in the plugin directory to install it. SVG uploads will be rejected until this is resolved."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:389
+#, php-format
+msgid "The required svg-sanitize library is not installed. SVG uploads are currently blocked. Please run %s in the plugin directory."
+msgstr ""
+
+#: includes/class-svg-ninja-core.php:207
+msgid "The uploaded SVG file appears to be empty or could not be read."
+msgstr ""
+
+#: includes/class-svg-ninja-core.php:213
+msgid "The uploaded file is not a valid SVG document."
+msgstr ""
+
+#: includes/class-svg-ninja-core.php:222
+msgid "This SVG file could not be sanitized and has been rejected for security reasons."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:304
+msgid "This setting cannot be disabled. Sanitization is a core security requirement."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:245
+msgid "What This Plugin Does:"
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:338
+msgid "Your SVG has been sanitized and optimized."
+msgstr ""
+
+#: includes/class-svg-ninja-admin.php:222
+msgid "Your WordPress site can now upload SVG files securely. SVG Ninja automatically sanitizes your vectors, strips bloated metadata, and ensures they display correctly in the Media Library."
+msgstr ""
